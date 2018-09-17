@@ -1,0 +1,11 @@
+D:\DOT NET Projects\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.deps.json
+D:\DOT NET Projects\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.json
+D:\DOT NET Projects\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.dev.json
+D:\DOT NET Projects\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.dll
+D:\DOT NET Projects\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.pdb
+D:\DOT NET Projects\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csprojAssemblyReference.cache
+D:\DOT NET Projects\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csproj.CoreCompileInputs.cache
+D:\DOT NET Projects\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfoInputs.cache
+D:\DOT NET Projects\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfo.cs
+D:\DOT NET Projects\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.dll
+D:\DOT NET Projects\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.pdb

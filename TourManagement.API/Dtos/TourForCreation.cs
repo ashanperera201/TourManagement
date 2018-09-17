@@ -1,0 +1,16 @@
+﻿#region References
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+#endregion
+
+#region Namespace
+namespace TourManagement.API.Dtos
+{
+    public class TourForCreation : TourAbstractBase
+    {
+        public Guid BandId { get; set; }
+    }
+}
+#endregion
